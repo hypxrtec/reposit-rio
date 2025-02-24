@@ -16,7 +16,7 @@
 A Lista de Tarefas é um sistema simples onde o usuário pode adicionar, marcar como concluída e remover tarefas do seu dia a dia, ajudando na organização e produtividade.  
 
 ##  Funcionalidades  
-- ✅ Adicionar uma nova tarefa  
-- ✏️ Marcar uma tarefa como concluída  
-- ❌ Remover uma tarefa da lista  
-- 📌 Interface simples e intuitiva  
+-  Adicionar uma nova tarefa  
+-  Marcar uma tarefa como concluída  
+-  Remover uma tarefa da lista  
+-  Interface simples e intuitiva  
